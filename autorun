@@ -1,0 +1,2 @@
+#!/bin/bash
+python twitterbot.py '@FLPolyU The power cut out in the dorms again..     [tweeted automatically using python]'
