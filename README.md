@@ -3,7 +3,7 @@ Twitter bot made in python that tweets at my college when the dorm power cuts ou
 
 Make twitterbot.py and autorun in a folder somewhere on the raspberry pi.
 
-	then 
+then 
 
 	cd ~
 
@@ -13,12 +13,12 @@ Make twitterbot.py and autorun in a folder somewhere on the raspberry pi.
   
   	./autorun
   
-	ctrl+x and save
+ctrl+x and save
 
 	sudo nano .bashrc
 
-	  scroll to bottom and add
+scroll to bottom and add
   
  	 ./superscript
   
-	ctrl+x and save
+ctrl+x and save
